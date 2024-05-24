@@ -2145,6 +2145,7 @@ hr {
 }
 @media (max-width: 575px) {
   .slider-height {
+    background-image: url(../img//hero/heros.png);
     min-height: 600px;
   }
 }
